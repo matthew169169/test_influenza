@@ -1,7 +1,9 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-
+#
+#bundle install
+#bundle exec jekyll serve --lsi
 title: blank # the website title (if blank, full name will be used instead)
 first_name: You
 middle_name: R.
